@@ -1,7 +1,7 @@
 var request = require("request");
 var http = require("http");
-var translationUsername= "6f6d2941-d9ae-407d-bb98-c246282379cd"
-var translationPassword= "kO2Hd67VDVoz"
+var translationUsername= "yourUsername"
+var translationPassword= "yourPassword"
 var transUrl = "https://gateway.watsonplatform.net/language-translator/api/v2/translate";
 var watson = require("watson-developer-cloud");
 
