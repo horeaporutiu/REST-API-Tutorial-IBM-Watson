@@ -5,8 +5,7 @@
   "main": "translate.js",
   "dependencies": {
     "http": "^0.0.0",
-    "request": "^2.83.0",
-    "watson-developer-cloud": "^2.42.0"
+    "request": "^2.83.0"
   },
   "devDependencies": {},
   "scripts": {
