@@ -4,9 +4,9 @@ This repo contains the code to use Watson Language Translation API and Watson To
 
 ## Simple to use 
 Before you get started, you'll need a couple things. 
-1) Free IBM Cloud account, to create Watson Service Credentials (Username and Passwords used to authenticate your API call): https://ibm.biz/BdjLxy
+1) <a href="https://ibm.biz/BdjLxy">Free IBM Cloud Account</a>, to create Watson Service Credentials (Username and Passwords used to authenticate your API call)
 
-2) NPM (Node package Manager): https://www.npmjs.com/get-npm
+2) <a href="https://www.npmjs.com/get-npm">NPM</a> (Node package Manager) 
 
 3) Login to IBM Cloud Dashboard
 
@@ -19,14 +19,12 @@ Before you get started, you'll need a couple things.
 based on which API you want to use.
 
 ## Get the output
-After adding the credentials, simply run:
+To see the output for the language translator API, add the credentials and run:
 ``
 node translate.js
 ``
-to see the output for the language translator API.
 
-To use the tone analyzer API, simply add your credentials to the top of tones.js and run:
-
+To see the output for the language translator API, add the credentials and run:
 ``
 node tones.js
 ``
@@ -36,6 +34,7 @@ If you get an error such as 'Error: Cannot find module 'request' simply run:
 ``
 npm install request
 ``
+<br>
 If you get an error such as 'Error: Cannot find module 'http' simply run: 
 ``
 npm install http
