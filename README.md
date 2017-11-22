@@ -18,13 +18,28 @@ Before you get started, you'll need a couple things.
 2) Add your credentials by modifiying the 'Username and Password' variables at the top of either translate.js or tones.js
 based on which API you want to use.
 
+## Install Dependencies
+If you cloned the repository, to install all the required npm packages, run:
+``
+npm install 
+``
+<br>
+Otherwise, run:
+``
+npm install request
+``
+and then:
+``
+npm install http
+``
+
 ## Get the output
-To see the output for the language translator API, add the credentials and run:
+To see the output for the Language Translator API, add the credentials and run:
 ``
 node translate.js
 ``
 
-To see the output for the language translator API, add the credentials and run:
+To see the output for the Tone Analyzer API, add the credentials and run:
 ``
 node tones.js
 ``
