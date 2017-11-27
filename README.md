@@ -18,6 +18,8 @@ Before you get started, you'll need a couple things.
 2) Add your credentials by modifiying the 'Username and Password' variables at the top of either translate.js or tones.js
 based on which API you want to use.
 
+![9NqBZy](https://i.makeagif.com/media/11-27-2017/9NqBZy.gif)
+
 ## Install Dependencies
 If you cloned the repository, to install all the required npm packages, run:
 ``
