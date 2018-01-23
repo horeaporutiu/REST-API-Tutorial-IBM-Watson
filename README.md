@@ -55,5 +55,4 @@ npm install request
 ``
 npm install http
 ``
-<br>
 3) If you get 404 error, usually the credentials are wrong. Check your credentials first, and if that doesn't work, try deleting the instance and then re-creating it. 
