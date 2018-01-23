@@ -56,3 +56,4 @@ If you get an error such as 'Error: Cannot find module 'http' simply run:
 ``
 npm install http
 ``
+If you get 404 error, usually the credentials are wrong. Check your credentials first, and if that doesn't work, try deleting the instance and then re-creating it. 
