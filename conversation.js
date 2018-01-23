@@ -1,11 +1,11 @@
 var prompt = require('prompt-sync')();
 var watson = require('watson-developer-cloud');
 //workspace for tennis Servr
-var workspace = 'be7a0f63-f34a-4b95-acda-f2fc61989fb1';
+var workspace = '{your workspaceID}';
 
 var conversation = watson.conversation({
-  username: '3be6a6cf-f602-4cbb-9319-54d0bb0b840e',
-  password: 'nd3cb8HMzN6u',
+  username: '{your conversation API username}',
+  password: '{your conversation API password}',
   version: 'v1',
   version_date: '2017-05-26'
 });
