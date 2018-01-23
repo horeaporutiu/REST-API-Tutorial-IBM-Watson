@@ -51,7 +51,6 @@ node tones.js
 ``
 npm install request
 ``
-<br>
 2) If you get an error such as 'Error: Cannot find module 'http' simply run: 
 ``
 npm install http
