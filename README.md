@@ -1,6 +1,6 @@
 # REST API Tutorial - IBM Watson
 
-This repo contains the code to use Watson Language Translation API and Watson Tone Analyzer API. Please refer to <a href="https://www.youtube.com/watch?v=BkVy1hDCcpo&list=PLVztKpIRxvQXdcUdfC1G9YDXGgyTTpSyZ">youtube tutorials</a> for full explanation of the code to use Watson APIs.
+This repo contains the code to use Watson conversation, tone analyzer, and language translation APIs. Please refer to <a href="https://www.youtube.com/watch?v=BkVy1hDCcpo&list=PLVztKpIRxvQXdcUdfC1G9YDXGgyTTpSyZ">youtube tutorials</a> for full explanation of the code to use Watson APIs.
 
 ## Simple to use 
 Before you get started, you'll need a couple things. 
